@@ -1,0 +1,1 @@
+# MediaTek-MTK-UART-enable
